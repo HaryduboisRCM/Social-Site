@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HaryduboisRCM/Social-Site/static/css/main.e105a251.css",
+    "main.js": "/HaryduboisRCM/Social-Site/static/js/main.da53f3d1.js",
+    "static/js/787.014f8b23.chunk.js": "/HaryduboisRCM/Social-Site/static/js/787.014f8b23.chunk.js",
+    "static/media/wizard.png": "/HaryduboisRCM/Social-Site/static/media/wizard.720f3caeaec6c5cd8959.png",
+    "static/media/reptile.png": "/HaryduboisRCM/Social-Site/static/media/reptile.560f45197aeb375a93d5.png",
+    "index.html": "/HaryduboisRCM/Social-Site/index.html",
+    "main.e105a251.css.map": "/HaryduboisRCM/Social-Site/static/css/main.e105a251.css.map",
+    "main.da53f3d1.js.map": "/HaryduboisRCM/Social-Site/static/js/main.da53f3d1.js.map",
+    "787.014f8b23.chunk.js.map": "/HaryduboisRCM/Social-Site/static/js/787.014f8b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e105a251.css",
+    "static/js/main.da53f3d1.js"
+  ]
+}
